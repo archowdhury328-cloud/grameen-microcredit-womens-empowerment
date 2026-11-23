@@ -1,0 +1,13 @@
+output,description,source,dataset_type,command
+fig1_study_framework.png,"Study framework, redrawn","Figure 1, p. 2584",none (conceptual),grameen reproduce-paper
+fig1_study_framework.svg,"Study framework, redrawn","Figure 1, p. 2584",none (conceptual),grameen reproduce-paper
+fig2_income_growth_by_sector.png,Figure 2 recreation,"Table 4, p. 2585",published_aggregate,grameen reproduce-paper
+fig2_income_growth_by_sector.svg,Figure 2 recreation,"Table 4, p. 2585",published_aggregate,grameen reproduce-paper
+fig3_autonomy_by_age_group.png,Figure 3 recreation,"Table 5, p. 2585",published_aggregate,grameen reproduce-paper
+fig3_autonomy_by_age_group.svg,Figure 3 recreation,"Table 5, p. 2585",published_aggregate,grameen reproduce-paper
+fig4_social_mobility_table6.png,Figure 4 primary chart (Table 6 values),"Table 6, p. 2585",published_aggregate,grameen reproduce-paper
+fig4_social_mobility_table6.svg,Figure 4 primary chart (Table 6 values),"Table 6, p. 2585",published_aggregate,grameen reproduce-paper
+fig4_pie_normalization_comparison.png,"Figure 4 pie as printed, normalisation stated (comparison only)","Figure 4, p. 2586; Table 6, p. 2585",published_aggregate,grameen reproduce-paper
+fig4_pie_normalization_comparison.svg,"Figure 4 pie as printed, normalisation stated (comparison only)","Figure 4, p. 2586; Table 6, p. 2585",published_aggregate,grameen reproduce-paper
+figure4_normalization_check.csv,Figure 4 arithmetic check,"Figure 4 labels vs Table 6, pp. 2585-2586",published_aggregate,grameen reproduce-paper
+published_values.csv,Transcribed values used for the figures,"Tables 4-6 and narrative, pp. 2582-2585",published_aggregate,grameen reproduce-paper

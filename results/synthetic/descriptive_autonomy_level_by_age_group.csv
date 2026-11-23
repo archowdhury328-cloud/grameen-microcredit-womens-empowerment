@@ -1,0 +1,5 @@
+group,n,mean,sd,weighted_mean,dataset_type
+30-45 years,91,53.8890,11.3680,54.5106,synthetic
+Over 45 years,103,52.4146,14.7115,51.8279,synthetic
+Under 30 years,42,50.4881,13.4922,49.4203,synthetic
+Overall,236,52.6403,13.2908,52.4626,synthetic

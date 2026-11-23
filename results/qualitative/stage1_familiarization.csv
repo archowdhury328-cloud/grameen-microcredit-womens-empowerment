@@ -1,0 +1,8 @@
+source_id,locator,evidence_type,annotated_passages
+PAPER-p2583-CHITTAGONG,"p. 2583, Section 4, left column (Chittagong participant)",reported_quote_in_paper,1
+PAPER-p2583-DHAKA,"p. 2583, Section 4, left column (Dhaka participant)",reported_quote_in_paper,1
+PAPER-p2583-NARR-AGRI,"p. 2583, Section 4, right column (authors' summary)",author_summary_in_paper,1
+PAPER-p2583-NARR-FINANCES,"p. 2583, Section 4, right column (authors' summary)",author_summary_in_paper,1
+PAPER-p2583-SYLHET-1,"p. 2583, Section 4, right column (Sylhet participant)",reported_quote_in_paper,1
+PAPER-p2583-SYLHET-2,"p. 2583, Section 4, right column (Sylhet participant)",reported_quote_in_paper,1
+PAPER-p2584-NARR-DEPENDENCY,"p. 2584, Section 4.1, left column (authors' summary)",author_summary_in_paper,1

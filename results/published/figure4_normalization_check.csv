@@ -1,0 +1,4 @@
+education_level,table6_value_percent,printed_pie_label_percent,printed_page,source_location,notes,sum_of_table6_values,recomputed_share_percent,recomputed_label,matches_printed_label
+No formal education,25,22.7000,2586,"Figure 4, Social Mobility by Education Level","Printed pie label; equals the Table 6 value divided by 110, the sum of 25, 35 and 50.",110.0000,22.7273,22.7000,True
+Primary education,35,31.8000,2586,"Figure 4, Social Mobility by Education Level","Printed pie label; equals the Table 6 value divided by 110, the sum of 25, 35 and 50.",110.0000,31.8182,31.8000,True
+Secondary education,50,45.5000,2586,"Figure 4, Social Mobility by Education Level","Printed pie label; equals the Table 6 value divided by 110, the sum of 25, 35 and 50.",110.0000,45.4545,45.5000,True

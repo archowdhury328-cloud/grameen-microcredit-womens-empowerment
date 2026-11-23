@@ -1,0 +1,6 @@
+group,n,mean,sd,weighted_mean,dataset_type
+higher,10,51.6600,22.4988,50.1066,synthetic
+none,74,49.4392,22.1281,51.5012,synthetic
+primary,88,52.2682,22.6291,52.9677,synthetic
+secondary,63,53.0365,23.2011,52.5806,synthetic
+Overall,235,51.5574,22.5263,52.2843,synthetic

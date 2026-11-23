@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it, and cite the paper it accompanies (all eight authors) from the references below."
+title: "Grameen microcredit and women's empowerment: reproducible companion"
+type: software
+version: 1.0.0
+date-released: "2026-11-24"
+repository-code: "https://github.com/archowdhury328-cloud/grameen-microcredit-womens-empowerment"
+abstract: >-
+  Code, transcribed published aggregates, synthetic demonstration data, regression and qualitative-coding tooling that
+  accompany Karim et al. (2024), IJCESEN 10(4):2578-2589. Reproduces the paper's summary charts from its printed
+  numbers; does not reproduce the paper's effects, whose row-level data are held by the corresponding author.
+keywords:
+  - microcredit
+  - Grameen Bank
+  - women's empowerment
+  - reproducibility
+  - mixed methods
+authors:
+  - family-names: Chy
+    given-names: Md Asikur Rahman
+    alias: archowdhury328-cloud
+references:
+  - type: article
+    title: "Empowering Women through Microcredit: An Analysis of the Grameen Bank Model's Impact on Socio-Economic Outcomes"
+    authors:
+      - family-names: Karim
+        given-names: Farhana
+      - family-names: Haldar
+        given-names: Urmi
+      - family-names: Rahman
+        given-names: Md Mohibur
+      - family-names: Islam
+        given-names: Md Anamul
+      - family-names: Kazi
+        given-names: Imran
+      - family-names: Miah
+        given-names: Md Alamgir
+      - family-names: Siddiqa
+        given-names: Kazi Bushra
+      - family-names: Chy
+        given-names: Md Asikur Rahman
+    journal: "International Journal of Computational and Experimental Science and ENgineering (IJCESEN)"
+    volume: "10"
+    issue: "4"
+    start: "2578"
+    end: "2589"
+    year: 2024
+    doi: "10.22399/ijcesen.4074"
+    url: "https://doi.org/10.22399/ijcesen.4074"
+  - type: dataset
+    title: "Long-Term Impact of Microcredit Impacts 1991-1992 (BGD_1991_LTIMCI_v01_M)"
+    authors:
+      - family-names: Khandker
+        given-names: Shahidur R.
+    institution:
+      name: "World Bank; Bangladesh Institute of Development Studies"
+    doi: "10.48529/anw3-f530"
+    url: "https://microdata.worldbank.org/catalog/1317"
+    notes: "Independent survey; licensed, not redistributed here."

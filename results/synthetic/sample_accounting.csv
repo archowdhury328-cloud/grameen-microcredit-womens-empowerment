@@ -1,0 +1,16 @@
+dataset_type,dataset_id,is_synthetic,outcome,item,n
+synthetic,synthetic_fixture,True,decision_autonomy,rows_in_file,240
+synthetic,synthetic_fixture,True,decision_autonomy,excluded:missing_outcome,4
+synthetic,synthetic_fixture,True,decision_autonomy,rows_eligible,236
+synthetic,synthetic_fixture,True,income_growth,rows_in_file,240
+synthetic,synthetic_fixture,True,income_growth,excluded:missing_predictor:education_level,5
+synthetic,synthetic_fixture,True,income_growth,excluded:missing_predictor:loan_tenure_months,11
+synthetic,synthetic_fixture,True,income_growth,excluded:zero_baseline_income,11
+synthetic,synthetic_fixture,True,income_growth,rows_eligible,213
+synthetic,synthetic_fixture,True,income_level,rows_in_file,240
+synthetic,synthetic_fixture,True,income_level,excluded:missing_predictor:education_level,5
+synthetic,synthetic_fixture,True,income_level,excluded:missing_predictor:loan_tenure_months,12
+synthetic,synthetic_fixture,True,income_level,rows_eligible,223
+synthetic,synthetic_fixture,True,social_engagement,rows_in_file,240
+synthetic,synthetic_fixture,True,social_engagement,excluded:missing_predictor:community_meeting_attendance,3
+synthetic,synthetic_fixture,True,social_engagement,rows_eligible,237

@@ -1,0 +1,33 @@
+dataset_id: synthetic_fixture
+dataset_type: synthetic
+description: FICTIONAL borrowers. Not derived from the paper's percentages and not
+  tuned to them.
+generator:
+  seed: 20241225
+  n: 240
+  autonomy_type: continuous
+  package_version: 1.0.0
+income:
+  unit_level: individual
+  reference_period: monthly
+  currency: BDT
+  baseline_comparable: true
+education:
+  coding:
+  - none
+  - primary
+  - secondary
+  - higher
+  reference: none
+autonomy:
+  measure_type: continuous
+  definition: FICTIONAL decision-autonomy score generated from training and group
+    membership plus noise.
+social_engagement:
+  measure_type: continuous
+  definition: 'FICTIONAL index (0-100): mean intensity of social-group, local-market
+    and political-forum participation. Excludes meeting attendance and leadership.'
+  components:
+  - social_group_participation
+  - local_market_participation
+  - political_forum_participation

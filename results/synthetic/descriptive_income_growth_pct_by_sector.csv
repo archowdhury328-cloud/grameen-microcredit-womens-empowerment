@@ -1,0 +1,4 @@
+group,n,mean,sd,weighted_mean,dataset_type
+agriculture,86,19.5957,13.5568,19.3929,synthetic
+small_business,143,19.4391,12.8357,19.4434,synthetic
+Overall,229,19.4979,13.0818,19.4244,synthetic

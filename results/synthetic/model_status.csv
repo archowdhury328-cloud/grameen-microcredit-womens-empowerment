@@ -1,0 +1,5 @@
+dataset_type,dataset_id,is_synthetic,outcome,status,message
+synthetic,synthetic_fixture,True,decision_autonomy,fitted,weights used as analytic/frequency weights; stratification is not modelled and AIC/BIC are not reported
+synthetic,synthetic_fixture,True,income_growth,fitted,weights used as analytic/frequency weights; stratification is not modelled and AIC/BIC are not reported
+synthetic,synthetic_fixture,True,income_level,fitted,weights used as analytic/frequency weights; stratification is not modelled and AIC/BIC are not reported
+synthetic,synthetic_fixture,True,social_engagement,fitted,weights used as analytic/frequency weights; stratification is not modelled and AIC/BIC are not reported

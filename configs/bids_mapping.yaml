@@ -1,0 +1,7 @@
+# World Bank / BIDS "Long-Term Impact of Microcredit Impacts 1991-1992" (catalog 1317).
+# These values are DATA-DEPENDENT and deliberately unset. Read the value labels in the downloaded
+# data dictionary, then fill them in. While any is null, import-bids refuses to run, so nothing
+# can be labelled Grameen-specific by accident.
+grameen_progid: null    # code in `progid` (roster/11cr1 files) that denotes the Grameen Bank programme
+member_codes: null      # code(s) in `csgpn` (11cr1, "which programme join") that denote Grameen Bank
+yes_codes: null         # code(s) in `csgpc` (11cr1, "currently member") that denote "yes"

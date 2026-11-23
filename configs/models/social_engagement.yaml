@@ -1,0 +1,9 @@
+# Table 3, row 3. The outcome must be measured independently of both predictors
+# (see circularity.py): Table 2 lists attendance and leadership as engagement indicators.
+outcome_key: social_engagement
+paper_reference: "Table 3, row 3: social engagement ~ attendance at community meetings, leadership roles"
+outcome: social_engagement
+predictors: [community_meeting_attendance, leadership_role]
+categorical: {}
+comparison_predictor: community_meeting_attendance
+meta_section: social_engagement

@@ -1,0 +1,7 @@
+theme,code_id,linked_outcome,relation_to_quantitative,annotated_passages,annotation_ids,status
+financial_independence,FIN-IND,income_level,convergent,1,A-01,annotated
+household_decision_authority,HDA,decision_autonomy,mixed,1,A-05,annotated
+community_participation,COMM,social_engagement,convergent,1,A-04,annotated
+repayment_stress,REPAY,income_level,divergent,2,A-02;A-06,annotated
+reliance_on_repeated_borrowing,REBORROW,income_level,divergent,1,A-07,annotated
+continued_family_control,FAMCTRL,decision_autonomy,divergent,1,A-03,annotated

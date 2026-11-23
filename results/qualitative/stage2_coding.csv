@@ -1,0 +1,8 @@
+annotation_id,source_id,code_id,theme,linked_outcome,relation_to_quantitative,evidence_type
+A-01,PAPER-p2583-DHAKA,FIN-IND,financial_independence,income_level,convergent,reported_quote_in_paper
+A-02,PAPER-p2583-SYLHET-1,REPAY,repayment_stress,income_level,divergent,reported_quote_in_paper
+A-03,PAPER-p2583-SYLHET-2,FAMCTRL,continued_family_control,decision_autonomy,divergent,reported_quote_in_paper
+A-04,PAPER-p2583-CHITTAGONG,COMM,community_participation,social_engagement,convergent,reported_quote_in_paper
+A-05,PAPER-p2583-NARR-FINANCES,HDA,household_decision_authority,decision_autonomy,mixed,author_summary_in_paper
+A-06,PAPER-p2583-NARR-AGRI,REPAY,repayment_stress,income_level,divergent,author_summary_in_paper
+A-07,PAPER-p2584-NARR-DEPENDENCY,REBORROW,reliance_on_repeated_borrowing,income_level,divergent,author_summary_in_paper

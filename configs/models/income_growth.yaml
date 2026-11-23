@@ -1,0 +1,15 @@
+# Optional variant of Table 3 row 1: percent change in income. Needs comparable baseline and follow-up.
+outcome_key: income_growth
+paper_reference: "Table 3, row 1 (variant): income growth ~ loan size, loan tenure, borrower's education level"
+outcome: income_growth_pct
+derived_outcome:
+  kind: percent_change
+  baseline: income_baseline
+  followup: income_followup
+predictors: [loan_size, loan_tenure_months, education_level]
+categorical:
+  education_level:
+    reference: none
+    levels: [none, primary, secondary, higher]
+comparison_predictor: loan_size
+meta_section: income

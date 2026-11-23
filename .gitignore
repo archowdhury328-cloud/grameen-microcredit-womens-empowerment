@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+build/
+dist/
+# Row-level and licensed data never enter Git
+data/original/
+# licensed World Bank/BIDS files and anything derived from them
+data/external/*
+!data/external/README.md
+.ruff_cache/
+# results/ and reports/ are committed: they are the generated outputs the README links to

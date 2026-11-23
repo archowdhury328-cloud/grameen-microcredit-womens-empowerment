@@ -1,0 +1,9 @@
+# Table 3, row 2. Estimator follows the documented measure type: continuous -> OLS,
+# binary -> logistic, ordinal -> ordered logit.
+outcome_key: decision_autonomy
+paper_reference: "Table 3, row 2: decision-making autonomy ~ participation in training, group membership"
+outcome: autonomy
+predictors: [training_participation, group_membership]
+categorical: {}
+comparison_predictor: training_participation
+meta_section: autonomy
